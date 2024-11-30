@@ -43,8 +43,8 @@ This project aims to develop a language model that can answer medical questions,
 Clone the repository to your local machine using:
 
 ```bash
-git clone https://github.com/charvijain12/medical-QA.git
-cd medical-QA
+git clone https://github.com/charvijain12/Medical-SLM.git
+cd Medical-SLM
 ```
 
 ---
@@ -65,7 +65,7 @@ pip install -r requirements.txt
 Navigate to the frontend folder and install the required dependencies:
 
 ```bash
-cd medical-qa-frontend
+cd Medical-SLM-frontend
 npm install
 ```
 
