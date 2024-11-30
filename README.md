@@ -1,4 +1,4 @@
-# 🏥 **Medical QA Project**
+# 🏥 **Medical SLM Project**
 
 This project involves developing, training, and deploying a small language model (SLM) capable of answering medical questions asked by end-users. The model provides informative, grounded answers while ensuring ethical compliance in its responses. The project includes both backend (FastAPI-based API) and frontend (React-based web app) components.
 
