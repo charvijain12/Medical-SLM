@@ -38,6 +38,8 @@ This project aims to develop a language model that can answer medical questions,
 
 ## 🏁 **Setup and Installation**
 
+### access the model from : https://drive.google.com/drive/folders/1qoqgo7BR2JXI2LG9Y6G9hGcv6QK4fnuc?usp=sharing
+
 ### 1. Clone the repository
 
 Clone the repository to your local machine using:
