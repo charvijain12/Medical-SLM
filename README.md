@@ -31,7 +31,7 @@ Medical-SLM/
 ├── Dockerfile.frontend                # Dockerfile for the frontend
 ├── label_encoder.pkl                  # Pre-trained label encoder for specialties
 ├── LICENSE                            # Project license file
-├── ngrok.exe                          # Utility for exposing local services
+├── Medical - SLM.pdf                  # Project Documentation
 ├── Problem Statement 2 - Medical SLM.pdf  # Problem statement document
 ├── SECURITY.md                        # Security policy for the project
 ├── README.md                          # Project documentation (this file)
